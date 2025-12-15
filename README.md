@@ -62,6 +62,7 @@ face_emotion_detection/
 └── .gitignore                   # Ignore unnecessary files
 
 ⚙️ Installation & Setup (macOS)
+
 1️⃣ Clone the repo
 git clone https://github.com/your-username/face-emotion-detection.git
 cd face_emotion_detection/face_emotion_detector
@@ -162,4 +163,5 @@ Perfect for: Mini projects, AI/ML portfolios, Resume & interviews
 
 Athira Arun
 B.Tech CSE | Interests: AI, Machine Learning, Computer Vision
+
 
