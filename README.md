@@ -35,13 +35,22 @@ Handles macOS camera permission issues—something many tutorials fail to addres
 ✅ Optimized for Apple Silicon (M1/M2/M3/M4)
 
 🛠️ Tech Stack
+
 Technology	Purpose
+
 Python 3.9	Core programming language
+
 OpenCV	Webcam access & image processing
+
 TensorFlow + Keras	Deep learning framework
+
 FER (Facial Emotion Recognition)	Emotion prediction
+
 NumPy	Numerical computations
+
 macOS AVFoundation	Camera backend for Apple devices
+
+
 📁 Project Structure
 face_emotion_detection/
 │
@@ -153,3 +162,4 @@ Perfect for: Mini projects, AI/ML portfolios, Resume & interviews
 
 Athira Arun
 B.Tech CSE | Interests: AI, Machine Learning, Computer Vision
+
