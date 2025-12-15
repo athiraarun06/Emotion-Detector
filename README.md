@@ -159,9 +159,13 @@ macOS hardware-level debugging
 
 Perfect for: Mini projects, AI/ML portfolios, Resume & interviews
 
+# output 
+<!-- Uploading "Screenshot 2025-12-16 at 12.18.27 AM.png"... -->
+
 👩‍💻 Author
 
 Athira Arun
 B.Tech CSE | Interests: AI, Machine Learning, Computer Vision
+
 
 
