@@ -159,10 +159,6 @@ macOS hardware-level debugging
 
 Perfect for: Mini projects, AI/ML portfolios, Resume & interviews
 
-# output 
-<img width="1102" height="618" alt="Image" src="https://github.com/user-attachments/assets/a5526112-0f71-4661-9078-d8cadb1119aa" />
-
-<img width="1017" height="614" alt="Image" src="https://github.com/user-attachments/assets/d9a4b3f1-e4b2-402c-8c65-0857804dccec" />
 
 👩‍💻 Author
 
